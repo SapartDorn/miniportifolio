@@ -178,6 +178,24 @@ ul{
     opacity: 0.8;
 }
 
+.informcoes-abas .redes-sociais::-webkit-scrollbar {
+    width: 8px;
+}
+
+.informcoes-abas .redes-sociais::-webkit-scrollbar-track {
+    background: #414141;
+    border-radius: 10px;
+}
+
+.informcoes-abas .redes-sociais::-webkit-scrollbar-thumb {
+    background-color: #e126d9;
+    border-radius: 10px;
+    border: 1px solid #414141;
+}
+
+.informcoes-abas .redes-sociais::-webkit-scrollbar-thumb:hover {
+    background-color: #c11db9;
+}
 
 
 
