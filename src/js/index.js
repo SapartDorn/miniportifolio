@@ -30,4 +30,4 @@ function mostrarInformacoesDaAba(aba) {
 
   // passo 6 - mostrar o conteúdo da aba selecionada
   informacaoASerMostrada.classList.add("selecionado");
-}
+} 
